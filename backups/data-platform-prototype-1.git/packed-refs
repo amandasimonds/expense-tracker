@@ -1,0 +1,19 @@
+# pack-refs with: peeled fully-peeled sorted 
+3c2e235535fe01f8b4555a6172762f4b436e6558 refs/heads/fix-styling-add-footer
+e65bf983bbb49f52f1af266f07e46f806706ecf8 refs/heads/gh-pages
+b49fc5946dacd40df087771eae4f79b57dbf554a refs/heads/graph-prototyping
+fccf5b462723faa15ad07fbe1796fb8504fb8374 refs/heads/icons-and-styling
+97c2bdec4e978fccba916b396193d7cccdd54276 refs/heads/main
+6218bfa0273ae02400403fe616db4ad9684d1014 refs/heads/my-original-lib
+8edf9bb275b964492e858d32a69c5030e479dc7f refs/heads/remove-auth
+67db37b53e743b93bcf0da1aa2d79a1e4a47312f refs/heads/update-angular
+b49fc5946dacd40df087771eae4f79b57dbf554a refs/pull/1/head
+3c2e235535fe01f8b4555a6172762f4b436e6558 refs/pull/10/head
+6218bfa0273ae02400403fe616db4ad9684d1014 refs/pull/2/head
+67db37b53e743b93bcf0da1aa2d79a1e4a47312f refs/pull/3/head
+4cfe80b54696a1077dbe6ced0eb681f65a32d823 refs/pull/4/head
+4b40d108a3383b4e20fcac90d1b0026b1ce72045 refs/pull/5/head
+fccf5b462723faa15ad07fbe1796fb8504fb8374 refs/pull/6/head
+4e572a2e2b870c1a05437da9b6073e1e285e918d refs/pull/7/head
+f855f64f9067cf7dcbdabfb16184d29acce65ee7 refs/pull/8/head
+e65bf983bbb49f52f1af266f07e46f806706ecf8 refs/pull/9/head
